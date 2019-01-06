@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--TODO: Add google analytics tracking id-->
+    <string name="ga_trackingId" translatable="false">UA-119013226-1</string>
+    <bool name="ga_reportUncaughtExceptions">true</bool>
+</resources>
