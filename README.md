@@ -50,6 +50,7 @@ GitHub Username​​ : ​ krishna7860
 
 **Screen 1**
 
+        ![alt text](https://user-images.githubusercontent.com/31980947/50739546-17cf2300-1208-11e9-82e6-d78e041ccfbb.jpg)
         News App
         Home Screen Loads News From Differents Areas and top news and displayed them according
         to publish date sort order The News are Fetch From NewsApi
