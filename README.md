@@ -49,38 +49,42 @@ GitHub Username​​ : ​ krishna7860
         Balsamiq.
 
 **Screen 1**
-![alt text](https://user-images.githubusercontent.com/31980947/50739882-1273d780-120c-11e9-8b62-f5eb61506afc.png)
+        ![alt text](https://user-images.githubusercontent.com/31980947/50750905-3ddade80-126d-11e9-90d6-38bb8eef71b6.png)
      
         News App
         Home Screen Loads News From Differents Areas and top news and displayed them according
         to publish date sort order The News are Fetch From NewsApi
 
 **Screen 2**
-
+        ![alt text](https://user-images.githubusercontent.com/31980947/50750909-3f0c0b80-126d-11e9-8e26-bae836e3491b.png)
         This Screen Actually Display the Details Screen of the News Which is and Intent for the main
         activity to a particular new here user can read full new in which they clicked on main Activity
         3Capstone_Stage1
 
 **Screen 3**
-
+        ![alt text](https://user-images.githubusercontent.com/31980947/50750915-429f9280-126d-11e9-9d54-84dcd919449d.png)
         Here News Are Categories for better Readability According to Some Category likes Business
         Entertainment Health And Etc And Display Them in A View Pager And Scrollable Tab Layout So
         U Can Easily Switch to intended news
     
 **Screen 4**
-
+         ![alt text](https://user-images.githubusercontent.com/31980947/50750920-4501ec80-126d-11e9-9ace-4440ff383498.png)
         This Is The Flash Screen For the App with the App Logo
         4Capstone_Stage1
 
 **Screen 5**
-
+          ![alt text](https://user-images.githubusercontent.com/31980947/50750921-47644680-126d-11e9-8847-10dfccb449a2.png)
         This Screens Display Settings For the App Where User Can Change Time Format, Search
         Language, Select Prefered Country and many more
     
 **Screen 6**
-
+        ![alt text](https://user-images.githubusercontent.com/31980947/50750922-49c6a080-126d-11e9-8819-220f67572ff1.png)
         This Is The Widget Layout For The App here Also The Latest News are shown and on clicking it
         ,it opens the app
+
+**Screen 7**
+        ![alt text](https://user-images.githubusercontent.com/31980947/50750924-4c28fa80-126d-11e9-8f3e-2ec49a26afaf.png)
+           Notification Screens 
 
 
 **Key Considerations**
