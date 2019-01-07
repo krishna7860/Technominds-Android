@@ -51,7 +51,7 @@ GitHub Username​​ : ​ krishna7860
 
 **Screen 1**
 
-        ![alt text](https://user-images.githubusercontent.com/31980947/50750905-3ddade80-126d-11e9-90d6-38bb8eef71b6.png)
+ ![alt text](https://user-images.githubusercontent.com/31980947/50750905-3ddade80-126d-11e9-90d6-38bb8eef71b6.png)
      
         
         
@@ -61,7 +61,7 @@ GitHub Username​​ : ​ krishna7860
 
 **Screen 2**
 
-        ![alt text](https://user-images.githubusercontent.com/31980947/50750909-3f0c0b80-126d-11e9-8e26-bae836e3491b.png)
+  ![alt text](https://user-images.githubusercontent.com/31980947/50750909-3f0c0b80-126d-11e9-8e26-bae836e3491b.png)
         
         
         T
@@ -71,7 +71,7 @@ GitHub Username​​ : ​ krishna7860
 
 **Screen 3**
 
-        ![alt text](https://user-images.githubusercontent.com/31980947/50750915-429f9280-126d-11e9-9d54-84dcd919449d.png)
+ ![alt text](https://user-images.githubusercontent.com/31980947/50750915-429f9280-126d-11e9-9d54-84dcd919449d.png)
         
         
         Here News Are Categories for better Readability According to Some Category likes Business
@@ -80,7 +80,7 @@ GitHub Username​​ : ​ krishna7860
     
 **Screen 4**
 
-         ![alt text](https://user-images.githubusercontent.com/31980947/50750920-4501ec80-126d-11e9-9ace-4440ff383498.png)
+![alt text](https://user-images.githubusercontent.com/31980947/50750920-4501ec80-126d-11e9-9ace-4440ff383498.png)
         
         
         This Is The Flash Screen For the App with the App Logo
@@ -88,7 +88,7 @@ GitHub Username​​ : ​ krishna7860
 
 **Screen 5**
 
-          ![alt text](https://user-images.githubusercontent.com/31980947/50750921-47644680-126d-11e9-8847-10dfccb449a2.png)
+![alt text](https://user-images.githubusercontent.com/31980947/50750921-47644680-126d-11e9-8847-10dfccb449a2.png)
         
         
         This Screens Display Settings For the App Where User Can Change Time Format, Search
@@ -96,7 +96,7 @@ GitHub Username​​ : ​ krishna7860
     
 **Screen 6**
 
-        ![alt text](https://user-images.githubusercontent.com/31980947/50750922-49c6a080-126d-11e9-8819-220f67572ff1.png)
+![alt text](https://user-images.githubusercontent.com/31980947/50750922-49c6a080-126d-11e9-8819-220f67572ff1.png)
        
        
        This Is The Widget Layout For The App here Also The Latest News are shown and on clicking it
@@ -105,7 +105,7 @@ GitHub Username​​ : ​ krishna7860
 
 **Screen 7**
 
-        ![alt text](https://user-images.githubusercontent.com/31980947/50750924-4c28fa80-126d-11e9-8f3e-2ec49a26afaf.png)
+ ![alt text](https://user-images.githubusercontent.com/31980947/50750924-4c28fa80-126d-11e9-8f3e-2ec49a26afaf.png)
           
           
           Notification Screens 
