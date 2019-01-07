@@ -49,7 +49,7 @@ GitHub Username​​ : ​ krishna7860
         Balsamiq.
 
 **Screen 1**
-![alt text](https://user-images.githubusercontent.com/31980947/50739882-1273d780-120c-11e9-8b62-f5eb61506afc.png)
+![alt text](https://user-images.githubusercontent.com/31980947/50739882-1273d780-120c-11e9-8b62-f5eb61506afc.png =100x20)
      
         News App
         Home Screen Loads News From Differents Areas and top news and displayed them according
