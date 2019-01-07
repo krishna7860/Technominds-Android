@@ -49,8 +49,8 @@ GitHub Username​​ : ​ krishna7860
         Balsamiq.
 
 **Screen 1**
-
-        <img src="https://user-images.githubusercontent.com/31980947/50739882-1273d780-120c-11e9-8b62-f5eb61506afc.png" height="200px" width="100px" />
+![alt text](https://user-images.githubusercontent.com/31980947/50739882-1273d780-120c-11e9-8b62-f5eb61506afc.png)
+     
         News App
         Home Screen Loads News From Differents Areas and top news and displayed them according
         to publish date sort order The News are Fetch From NewsApi
