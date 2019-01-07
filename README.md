@@ -48,7 +48,9 @@ GitHub Username​​ : ​ krishna7860
         using a program like Google Drawings, ​ www.ninjamock.com​ , Paper by 53, Photoshop or
         Balsamiq.
 
+
 **Screen 1**
+
         ![alt text](https://user-images.githubusercontent.com/31980947/50750905-3ddade80-126d-11e9-90d6-38bb8eef71b6.png)
      
         
@@ -58,6 +60,7 @@ GitHub Username​​ : ​ krishna7860
         to publish date sort order The News are Fetch From NewsApi
 
 **Screen 2**
+
         ![alt text](https://user-images.githubusercontent.com/31980947/50750909-3f0c0b80-126d-11e9-8e26-bae836e3491b.png)
         
         
@@ -67,6 +70,7 @@ GitHub Username​​ : ​ krishna7860
         3Capstone_Stage1
 
 **Screen 3**
+
         ![alt text](https://user-images.githubusercontent.com/31980947/50750915-429f9280-126d-11e9-9d54-84dcd919449d.png)
         
         
@@ -75,6 +79,7 @@ GitHub Username​​ : ​ krishna7860
         U Can Easily Switch to intended news
     
 **Screen 4**
+
          ![alt text](https://user-images.githubusercontent.com/31980947/50750920-4501ec80-126d-11e9-9ace-4440ff383498.png)
         
         
@@ -82,6 +87,7 @@ GitHub Username​​ : ​ krishna7860
         4Capstone_Stage1
 
 **Screen 5**
+
           ![alt text](https://user-images.githubusercontent.com/31980947/50750921-47644680-126d-11e9-8847-10dfccb449a2.png)
         
         
@@ -89,13 +95,16 @@ GitHub Username​​ : ​ krishna7860
         Language, Select Prefered Country and many more
     
 **Screen 6**
+
         ![alt text](https://user-images.githubusercontent.com/31980947/50750922-49c6a080-126d-11e9-8819-220f67572ff1.png)
        
        
        This Is The Widget Layout For The App here Also The Latest News are shown and on clicking it
         ,it opens the app
 
+
 **Screen 7**
+
         ![alt text](https://user-images.githubusercontent.com/31980947/50750924-4c28fa80-126d-11e9-8f3e-2ec49a26afaf.png)
           
           
